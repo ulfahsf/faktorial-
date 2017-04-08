@@ -16,7 +16,7 @@ public class Jurnal2 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("Eko Pramono (103510281)");
+        System.out.println("Ulfah SF (6706150135)");
         System.out.println("");
         int l = 1;
         int tingkat = 10;
